@@ -5,6 +5,8 @@ manipulando planilha xlsx com rpaframework
 
 
 Validar preenchimento de dados no Arquivo1.xlsx  
+
+
           #Abrindo o Arquivo1.xlsx           
           Open Workbook    Arquivo1.xlsx      
 
