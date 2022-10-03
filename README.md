@@ -5,7 +5,7 @@ manipulando planilha xlsx com rpaframework
 O principal objectivo deste projeto e explicar sobre o preenchimento de dados de planilha xls/xlsx de forma simples
 
 # Isenção de responsabilidade
-A solução foi testada com o sistema operativo Windows 11.
+A solução foi testada com o sistema operacional Windows 11.
 
 # Como configurar a sua máquina Windows 11 para executar os testes:
 
