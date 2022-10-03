@@ -3,6 +3,8 @@ manipulando planilha xlsx com rpaframework
 
 #Instalação via > pip install rpaframework
 
+#Para executar o projeto no terminal execute o comando > robot -d /log .\teste.robot
+
 
 Validar preenchimento de dados no Arquivo1.xlsx  
 
